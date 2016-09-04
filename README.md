@@ -11,3 +11,6 @@ An awesome list of high-quality korean text work resources (on-going).
  - [HanNanum 홈페이지](http://semanticweb.kaist.ac.kr/home/index.php/HanNanum)
  - 사용 가능 언어 : JAVA
 
+# 감성 사전
+* [나쁜 단어 사전](http://badworddictionary.xyz/)
+ - 크라우드소싱 나쁜 사전 구축 페이지
