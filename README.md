@@ -1,7 +1,12 @@
 # Awsome-KoNLP
 An awesome list of high-quality korean text work resources (closed).
 
-# Ckeck this repo [[link](https://github.com/datanada/Awesome-Korean-NLP)]
+# Ckeck this repo [[Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)]
+
+
+
+----
+
 
 # 형태소 분석기
 * [RHINO 2.5.1](https://sourceforge.net/projects/koreananalyzer/)
